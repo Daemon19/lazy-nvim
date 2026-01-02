@@ -1,2 +1,2 @@
-# lazy-nvim
-My lazy nvim configurations
+# 💤 LazyVim
+My lazy nvim configurations.
